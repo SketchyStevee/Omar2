@@ -1,5 +1,5 @@
 [build]
-  publish = "dist/nft-give-back"
+  publish = "dist/omarmhammouda"
   command = "ng build"
 [[redirects]]
   from = "/*"
